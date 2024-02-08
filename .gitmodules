@@ -1,0 +1,6 @@
+[submodule "host/ogc_python_tools"]
+	path = host/ogc_python_tools
+	url = https://github.com/OGC-dustin/ogc_python_tools.git
+[submodule "client/ogc_python_tools"]
+	path = client/ogc_python_tools
+	url = https://github.com/OGC-dustin/ogc_python_tools.git
