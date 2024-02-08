@@ -21,14 +21,13 @@ sudo apt install python3, python3-paho
 * In one terminal, run the host application to start generating host/server side heartbeats
 ```
 cd host
-./ogc-network-host-application.py
+./ogc-network-mqtt-host-application.py
 ```
 * In a second terminal, run the client application to start generating client/device side heartbeats
 ```
 cd client
-./ogc-network-client-application.py
+./ogc-network-mqtt-client-application.py
 ```
-* run multipl clients to see broadcasts across the network but responses only to individual clients
 
 ## Expected operation
 * host side application broadcasts heartbeats on /network/broadcasts topic for clients to track server health
