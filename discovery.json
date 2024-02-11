@@ -1,0 +1,10 @@
+{
+  "messagetype":"discovery",
+  "messageid": "579-ky",
+  "lookingfor": [
+    "database",
+    "ntp",
+    "touch",
+    "docking"
+  ]
+}
