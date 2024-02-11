@@ -1,5 +1,7 @@
 {
   "messagetype":"discovery",
+  "deviceid": "ND457",
+  "timestamp": "1707634278",
   "messageid": "579-ky",
   "lookingfor": [
     "database",
